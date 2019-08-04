@@ -1,0 +1,4 @@
+Pegue todas as imagem e bote em uma pasta chamada imagem
+e pegue o arquivo estilo.css e bota dentro de uma pasta chamada estilo
+
+e cria uma pasta chamada devforum e poe a pasta imagem, estilo e o index.
